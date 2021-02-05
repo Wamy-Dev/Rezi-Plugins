@@ -4,7 +4,7 @@ This is the plugins github for [Rezi](https://github.com/Wamy-Dev/Rezi)! Here yo
 
 If you want to contribute and add your own plugins, please create an issue for it to be verified. You may submit the code in any way you like as long as it allows me to download it and get it onto this github.
 
-[Here](https://github.com/Wamy-Dev/Rezi-Plugins.wiki.git) is the documentation for making your own plugin.
+[Here](https://github.com/Wamy-Dev/Rezi-Plugins/wiki) is the documentation for making your own plugin.
 
 Plugins can do a range of things such as add more consoles, or add seperate sources instead of what normally ships with the bot. Just make an issue and see what happens! 
 
