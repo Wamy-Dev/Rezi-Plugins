@@ -3,6 +3,7 @@ from selenium.webdriver.common.keys import Keys
 import asyncio
 from bs4 import BeautifulSoup
 import pyshorteners
+import time
 modules=["wii"]
 color=0xFFFFFA
 async def get(driver,searchTerm,moduleName):
